@@ -7,3 +7,5 @@ xxxx
 hello, yy
 hello.csf
 
+idea-text
+
